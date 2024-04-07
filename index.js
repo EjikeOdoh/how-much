@@ -6,7 +6,9 @@ app.get('/',(req, res)=>{
 return res.json({
     localRice:1800,
     beans:1700,
-    nigerianRice:2200
+    nigerianRice:2200,
+    egusi:2500,
+    
 
 })
 })
